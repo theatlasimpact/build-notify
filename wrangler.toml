@@ -1,0 +1,5 @@
+name = "build-notify"
+main = "src/worker.js"
+compatibility_date = "2025-01-01"
+# Codex: after fetching the account id, append:
+# account_id = "<AUTO_FILLED>"
